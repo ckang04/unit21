@@ -8,7 +8,7 @@ In this exercise, we used Remix to mint a standard ERC20Mintable token, as well 
 - TimedCrowdsale
 - RefundablePostDeliveryCrowdsale
 
-Other parameters set for all the features of the crowdsale included:
+Other parameters set for all the features of the crowdsale include:
 
 1. Name: **PupperCoin**
 2. Symbol: **PUP**
